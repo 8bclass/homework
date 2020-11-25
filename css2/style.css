@@ -143,7 +143,7 @@ body{
 	height: 150px;
 	background-color: yellow;
 	position: absolute;
-	left: 500px;
+	left: 400px;
 	margin-top: 240px;
 }
 
@@ -152,8 +152,17 @@ body{
 	height: 150px;
 	background-color: yellow;
 	position: absolute;
-	left: 700px;
+	left: 600px;
 	margin-top: 220px;
+}
+
+.container ul li .nzp{
+	width: 150px;
+	height: 150px;
+	background-color: yellow;
+	position: absolute;
+	left: 800px;
+	margin-top: 200px;
 }
 
 
@@ -287,8 +296,8 @@ body{
 	color: #59B800;
 	font-size: 26;
 	position: absolute;
-	left: 519px;
-	margin-top: 265px;
+	left: 419px;
+	margin-top: 245px;
 	font-size: 12px;
 }
 
@@ -296,7 +305,16 @@ body{
 	color: #59B800;
 	font-size: 26;
 	position: absolute;
-	left: 730px;
-	margin-top: 265px;
+	left:630px;
+	margin-top: 245px;
+	font-size: 12px;
+}
+
+.r17{
+	color: #59B800;
+	font-size: 26;
+	position: absolute;
+	left: 860px;
+	margin-top: 245px;
 	font-size: 12px;
 }
